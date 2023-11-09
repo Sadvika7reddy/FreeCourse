@@ -1,0 +1,43 @@
+.app {
+    text-align: center;
+  }
+ .card{
+    margin:0 auto;
+    background-color: rgb(132, 128, 125);
+    padding: 16px;
+    border-radius: 16px;
+    color:white;
+    width:50%;
+    height:auto;
+ } 
+ .ul{
+    list-style: none;
+ }
+ .li{
+    background-color: rgb(194, 193, 189);
+    padding:16px;
+    border:3px solid rgb(242, 237, 237);
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 8px;
+    
+ }
+ .text{
+    color:darkslategray;
+    font-size: 25px;
+ }
+ .results{
+    margin:0 auto;
+    background-color: rgb(132, 128, 125);
+    padding: 16px;
+    border-radius: 16px;
+    color:white;
+    width:50%;
+    height:auto;
+ }
+ button{
+    margin: 0 auto;
+    background-color: darkgreen;
+    padding:8px;
+    border-radius:10 px ;
+ }
