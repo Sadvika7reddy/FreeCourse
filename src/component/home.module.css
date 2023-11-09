@@ -1,0 +1,27 @@
+.align{
+    display: inline-flex;
+    list-style:none;
+}
+.buttons{
+    position: absolute;
+    top:20%;
+    right: 0;
+    width: 120px;
+    height: 30px;
+    transform: translateY(-50%);
+    background-color: darkslategray;
+  }
+  .link{
+    font-size: large;
+    color: aliceblue;
+  }
+  .li{
+    background-color: rgb(169, 165, 148);
+    padding:16px;
+    border:3px solid rgb(242, 237, 237);
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 8px;
+    
+ }
+  
